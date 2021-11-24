@@ -10,6 +10,8 @@ const App = () => {
       <p>Demo 2</p>
       <p>Demo 3</p>
       <p>Demo 4</p>
+      <p>Stuff 1</p>
+      <p>Stuff 2</p>
     </div>
   );
 };
