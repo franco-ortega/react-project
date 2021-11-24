@@ -6,6 +6,8 @@ const App = () => {
     <div className={styles.App}>
       Good morning.
       <p>Paragraph</p>
+      <p>Demo 1</p>
+      <p>Demo 2</p>
     </div>
   );
 };
