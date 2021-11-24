@@ -8,6 +8,7 @@ const App = () => {
       <p>Paragraph</p>
       <p>Demo 1</p>
       <p>Demo 2</p>
+      <p>Demo 3</p>
     </div>
   );
 };
